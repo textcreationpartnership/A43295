@@ -1,0 +1,403 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A new method of curing all sorts of fevers without taking any thing by the mouth discovered and presented to the King by Mr. Ad. Helvetius ... / translated out of French by P.M.</title>
+            <title>Méthode pour guérir toute sorte de fièvres, sans rien faire prendre par la bouche. English</title>
+            <author>Helvétius, Jean-Adrien, 1662-1727.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 49 KB of XML-encoded text transcribed from 42 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A43295</idno>
+            <idno type="STC">Wing H1409</idno>
+            <idno type="STC">ESTC R19575</idno>
+            <idno type="EEBO-CITATION">12561300</idno>
+            <idno type="OCLC">ocm 12561300</idno>
+            <idno type="VID">63212</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A43295)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 63212)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 319:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A new method of curing all sorts of fevers without taking any thing by the mouth discovered and presented to the King by Mr. Ad. Helvetius ... / translated out of French by P.M.</title>
+                  <title>Méthode pour guérir toute sorte de fièvres, sans rien faire prendre par la bouche. English</title>
+                  <author>Helvétius, Jean-Adrien, 1662-1727.</author>
+                  <author>P. M.</author>
+               </titleStmt>
+               <extent>[12], 69 [i.e. 70], [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Knapton ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Translation of: Méthode pour guérir toute sorte de fièvres, sans rien faire prendre par la bouche.</note>
+                  <note>Errata: p. [12].</note>
+                  <note>Advertisements: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fever therapy.</term>
+               <term>Medicine --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:63212:1"/>
+            <p>A New Method OF CURING All Sorts of FEVERS, Without taking any thing by the Mouth. Diſcovered and preſented to the King by Mr. <hi>Ad. Helve<g ref="char:EOLhyphen"/>tius,</hi> Doctor of Phyſick in <hi>Paris.</hi>
+            </p>
+            <p>Tranſlated out of <hi>French,</hi> by <hi>P. M.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>J. Knapton,</hi> at the <hi>Crown</hi> in St. <hi>Pauls</hi> Church yard, 1694.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:63212:2"/>
+            <pb facs="tcp:63212:2"/>
+            <head>TO THE KING.</head>
+            <p>THE new <g ref="char:V">Ʋ</g>ſe I have diſco<g ref="char:EOLhyphen"/>vered of the Bark, to cure infallibly all ſorts of Fevers, with<g ref="char:EOLhyphen"/>out taking any thing by
+<pb facs="tcp:63212:3"/>the Mouth, has been ap<g ref="char:EOLhyphen"/>proved of by your Ma<g ref="char:EOLhyphen"/>jeſty, with a Goodneſs ſo obliging, when I had the Honour to preſent it, that I ſhould have all the reaſon in the world to believe, the Publick would give it a no leſs favour<g ref="char:EOLhyphen"/>able Reception, if I offer it my ſelf. But, Sir, after what man<g ref="char:EOLhyphen"/>ner will it not be re<g ref="char:EOLhyphen"/>ceived by all your Sub<g ref="char:EOLhyphen"/>jects,
+<pb facs="tcp:63212:3"/>when they know 'tis Your Majeſty, that has been graciouſly pleaſ<g ref="char:EOLhyphen"/>ed to impart this Diſco<g ref="char:EOLhyphen"/>very, thro the Paternal Care which Your Royal Goodneſs is pleaſed to take of their Health? Yes, Sir, 'tis this ex<g ref="char:EOLhyphen"/>treme Goodneſs, that after having made Your Majeſty condeſcend to enquire into the particu<g ref="char:EOLhyphen"/>lar Wants of the Sick,
+<pb facs="tcp:63212:4"/>which are ſome of thoſe that have the Happi<g ref="char:EOLhyphen"/>neſs to ſerve in Your Houſhold, and: which Your Majeſty has done me the Honour to recom<g ref="char:EOLhyphen"/>mend to my Care, oblig'd Your Majeſty thereupon to command me to pub<g ref="char:EOLhyphen"/>liſh my Remedy; to the intent, that no perſon in Your Kingdom might be deprived of the Advan<g ref="char:EOLhyphen"/>tage of making uſe of it.
+<pb facs="tcp:63212:4"/>I obey, Sir, not only with the moſt humble Reſpect, and the most profound Submiſſion, which I owe to the Commands of my King, but alſo with a particular. Satisfaction and Joy, that I have been able to enrich, and bring the Art of Phyſick to perfection for the good of <hi>France,</hi> which your Heroick Vertues have
+<pb facs="tcp:63212:5"/>advanced ſo far above the reſt of the Nations of the World; and which is my true Country, ſince it has pleaſed Your Ma<g ref="char:EOLhyphen"/>jeſty in Naturalizing me, to honour me with the quality of one of Your Majeſties Subjects. But at the ſame time, Sir, I take the Liberty which Your Majeſty has given me, to put under the Pro<g ref="char:EOLhyphen"/>tection
+<pb facs="tcp:63212:5"/>of Your Auguſt Name, this which I have publiſhed to the World; it being Juſtice, that after the ſingular Grace Your Majeſty did me, (when I had the Honor to preſent my Specifick againſt the Dyſenter) in granting me the pow<g ref="char:EOLhyphen"/>er to have Laboratories throughout the whole Kingdom all the Fruits
+<pb facs="tcp:63212:6"/>of my future Labours ſhould be devoted, as of Right belonging to Your Majeſty, and ſhould ſerve me as a means to teſtify a lively and hear<g ref="char:EOLhyphen"/>ty Acknowledgment of Your Majeſtys Favours, and my ardent Zeal to ſacrifice to Your Service during my whole Life, with an entire Devotion, all that my mean Ca<g ref="char:EOLhyphen"/>pacity
+<pb facs="tcp:63212:6"/>and weak Endea<g ref="char:EOLhyphen"/>vours are capable of.</p>
+            <closer>
+               <signed>I am, Sir, Your Majeſties moſt Humble and moſt Obedient Ser<g ref="char:EOLhyphen"/>vant and Subject, <hi>A. Helvetius,</hi> M.D.</signed>
+            </closer>
+         </div>
+         <div type="errata">
+            <pb facs="tcp:63212:7"/>
+            <head>ERRATA.</head>
+            <p>PAge 2<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> for <gap reason="illegible" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Animal.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="medical_treatise">
+            <pb n="1" facs="tcp:63212:7"/>
+            <head>A New Method Of Curing all Sorts of FEVERS.</head>
+            <p>OF all the Febrifuges yet known to the World, without doubt the Bark muſt be allowed to be the beſt. It's what all of our faculty grant; I have par<g ref="char:EOLhyphen"/>ticularly ſtudied the point, with all the care and exactneſs poſ<g ref="char:EOLhyphen"/>ſible,
+<pb n="2" facs="tcp:63212:8"/>and am thoroughly con<g ref="char:EOLhyphen"/>vinc'd of its excellency. 'Tis true, from the manner hither<g ref="char:EOLhyphen"/>to obſerved in giving it, ma<g ref="char:EOLhyphen"/>ny inconveniences ariſe; 'tis this has put me upon the ſearch after ſome better way, by which, we might be exempt from the ill circumſtances, and enjoy only the good of this wonderful Remedy.</p>
+            <p>Without diſpute, many Phy<g ref="char:EOLhyphen"/>ſicians before me, have endea<g ref="char:EOLhyphen"/>vour'd the ſame; which is the reaſon, that within theſe thirty or forty years laſt paſt, you have ſeen ſo many different preparations of the Bark, which are every day in uſe all over <hi>Europe.</hi>
+            </p>
+            <p>Some give it in Infuſion; o<g ref="char:EOLhyphen"/>thers in Subſtance; there are
+<pb n="3" facs="tcp:63212:8"/>others that make a Tincture of it; ſome prepare it in Syrup; others order it in an Extract; and in a word, they diſguiſe it in an hundred different forms, But after all that, they are not yet arrived to that method of preſcribing it, ſo as the Patient may have no reaſon to be diſ<g ref="char:EOLhyphen"/>ſatisfyed.</p>
+            <p>For in truth, after taking it, one complains of an intolera<g ref="char:EOLhyphen"/>ble weight and pain in his Sto<g ref="char:EOLhyphen"/>mach: another, that there is a diſturbanee in his Breaſt; a third, that he feels an extraor<g ref="char:EOLhyphen"/>dinary heat, another that he is ſcorcht up by it. In fine, we ſee ſome every day, tho cured by its means, yet reſolve never to make uſe of it any more; whether or no, the Bark it ſelf
+<pb n="4" facs="tcp:63212:9"/>is the cauſe of their complaint, or rather the management of themſelves in the taking of it, that produces thoſe ill effects, may be a queſtion; for conſider<g ref="char:EOLhyphen"/>ing how often 'tis to be re<g ref="char:EOLhyphen"/>peated, and with what cauti<g ref="char:EOLhyphen"/>on, 'tis no difficult matter for the Patient to tranſgreſs in ſome point or other.</p>
+            <p>I mention not the complaints generally made by the ſick, nor the inconveniences moſt known; beſides theſe particular ones which I am going to ſpeak of, <hi>viz.</hi> the Illneſs of Taſte, the Nauſeouſneſs and Bitterneſs which always attend it, if taken by the mouth, vary how you can in the manner of giving it; that which is ſo much the great<g ref="char:EOLhyphen"/>er pain and trouble to the Pati<g ref="char:EOLhyphen"/>ent,
+<pb n="5" facs="tcp:63212:9"/>notwithſtanding the great<g ref="char:EOLhyphen"/>eſt averſion after the firſt taking it, is the abſolute neceſſity of repeating it every day, ſome<g ref="char:EOLhyphen"/>times for the ſpace of ſix weeks or more, and after all, in caſe of relapſe, the vexation of be<g ref="char:EOLhyphen"/>ing forc'd to begin all again.</p>
+            <p>It was upon weighing ſeriouſ<g ref="char:EOLhyphen"/>ly theſe diſagreeable circum<g ref="char:EOLhyphen"/>ſtances, which attend the Re<g ref="char:EOLhyphen"/>medy, that I thought upon the diſcovery of a more proper way of giving it, that the Pati<g ref="char:EOLhyphen"/>ent might receive the benefit of it without the pain.</p>
+            <p>The way is only by giving it in Clyſter.</p>
+            <p>For that, you muſt take one ounce of the beſt Bark pulve<g ref="char:EOLhyphen"/>riz'd, and mix it well in a pint of warm water without putting any thing to't beſides.</p>
+            <pb n="6" facs="tcp:63212:10"/>
+            <p>In intermitting Fevers this Clyſter ought to be given juſt after the fit, and to be repeat<g ref="char:EOLhyphen"/>ed three times a day till the Patient is thoroughly well; which won't be long firſt, for 'tis extraordinary if another fit returns, very rare if two; and I never ſaw a third.</p>
+            <p>After the cure the perſon muſt take care to continue the ſame Clyſters for the ſpace of twelve days, <hi>viz.</hi> the firſt ſix days one in the morning and another in the evening; the ſix laſt days one in the morning only.</p>
+            <p>As the chief and neceſſary point in the matter, is to hold the Clyſter in as long as poſſi<g ref="char:EOLhyphen"/>bly may be, and conſidering there are a great many perſons
+<pb n="7" facs="tcp:63212:10"/>that can do that but a very lit<g ref="char:EOLhyphen"/>tle while, for ſuch you muſt add to the Powder half an ounce of the Syrup of White Poppies, which will eaſily make it ſtay without pain.</p>
+            <p>In continual Fevers, the Cly<g ref="char:EOLhyphen"/>ſter muſt be made of a ſtrong decoction of the Bark with ſim<g ref="char:EOLhyphen"/>ple water, with which deco<g ref="char:EOLhyphen"/>ction you ſhall alſo mix one ounce of the Powder. And the Syrup of White Poppies ſhall be uſed upon occaſion as before.</p>
+            <p>This Clyſter muſt be given upon the declining of the Pa<g ref="char:EOLhyphen"/>roxyſme; but if there be no<g ref="char:EOLhyphen"/>thing of a Paroxyſme, you muſt give it when the Fever is leaſt violent.</p>
+            <pb n="8" facs="tcp:63212:11"/>
+            <p>Inſtead of giving it as you do in intermitting Fevers three times a day, in this you muſt give it every fourth hour; till the Patient has loſt his Fe<g ref="char:EOLhyphen"/>ver.</p>
+            <p>After he is well, you muſt re<g ref="char:EOLhyphen"/>member to continue ſtill the ſame Clyſter for twelve days, in the ſame order as before, that is to ſay, the firſt ſix days twice a day, the other ſix but once only.</p>
+            <p>This Remedy is proper for all ſorts of perſons of any age of ſex, allowing only for the difference of the doſe.</p>
+            <p>For Infants that ſuck, and till they are four years of age, the doſe of powder muſt be two drachms. From the age of four to ten the doſe three drachms.</p>
+            <pb n="9" facs="tcp:63212:11"/>
+            <p>From ten to fifteen half an ounce; from fifteen to twenty ſix drachms; from twenty to ſixty you muſt give the whole doſe of an ounce; the ſame to Women with Child; for the Remedy has its effect without cauſing the leaſt diſturbance.</p>
+            <p>Nevertheleſs, perſons of a very weak conſtitution, whoſe Fibres are very delicate, ſhall take but half a Doſe, <hi>viz.</hi> half an ounce.</p>
+            <p>You muſt obſerve that thoſe that keep in the Clyſter but a little time, ought to continue the taking it much longer, that the frequent repetition may make amends, for the deficien<g ref="char:EOLhyphen"/>cy of every particular one, and by the number perform the cure. Which is to be under<g ref="char:EOLhyphen"/>ſtood,
+<pb n="10" facs="tcp:63212:12"/>as well of thoſe that take the whole doſe, as of thoſe that take but part.</p>
+            <p>You muſt obſerve alſo, that for thoſe that find themſelves dozed, as generally moſt are in Malignant Fevers; you muſt make uſe of no Syrup of white Poppies, but endeavour to make 'em hold the Clyſter, as long as poſſible you can without it. On the contrary, you muſt obſerve in all Fevers accompanied with a looſneſs, that you ought ne<g ref="char:EOLhyphen"/>ver to fail mixing the half ounce of Syrup of white Poppies in the Clyſter.</p>
+            <p>In fine, you muſt obſerve that in all complicated Diſtem<g ref="char:EOLhyphen"/>pers, as defluctions upon the Lungs, <hi>Deliriums, Pluriſies,</hi> all ſorts of wounds, and the like,
+<pb n="11" facs="tcp:63212:12"/>this remedy is always given with ſucceſs, and never fails to take off the Fever, leaving all things in a better condition to be the more eaſily cured.</p>
+            <p>There is but one thing which can accompany a Fever, where<g ref="char:EOLhyphen"/>in you muſt deny your ſelf the uſe of the Bark, and that is, in the extraordinary tenſions of the Abdomen.</p>
+            <p>I have one thing more to give caution of, which is, as there are a great many that can<g ref="char:EOLhyphen"/>not keep in a Clyſter, ſo there are a great many that don't give it back again when taken, and ſo feel themſelves inflated.</p>
+            <p>For ſuch I think it conve<g ref="char:EOLhyphen"/>nient to take a purgative Cly<g ref="char:EOLhyphen"/>ſter towards night for two days, which will ſoon carry off the
+<pb n="12" facs="tcp:63212:13"/>other; upon which account it would not be amiſs to inform the Patients that theſe Clyſters have nothing of a purging qua<g ref="char:EOLhyphen"/>lity, neither are given for that intent; that they may not be frighted and diſturb'd, as a great many are, unleſs they ſee a large evacuation of Choler and other humors, as is uſual from ordinary Clyſters.</p>
+            <p>As for management of the Diet, I ſhall preſcribe nothing extraordinary. Let the Patient live upon Broths as long as the Fever continues; after that let him eat ſparingly without over<g ref="char:EOLhyphen"/>charging his ſtomach, and avoid every thing that's hard of di<g ref="char:EOLhyphen"/>geſtion. During the Fever let the Patient drink Barley Broth, made palataable as he ſhall
+<pb n="13" facs="tcp:63212:13"/>think fit. Every one knows ve<g ref="char:EOLhyphen"/>ry well, that the root of Scor<g ref="char:EOLhyphen"/>zoner with Hartſhorn is of great uſe in Malignant Fevers; that the root of Sorrel, Agrimony, Succory, Dogs Graſs are uſed for refreſhment; that Marſh<g ref="char:EOLhyphen"/>mallows, Liquorice, Sebeſten, Jujubes, Narbone Honey, are very good pectorals.</p>
+            <p>When the Fever's gone, I am not for denying a moderate uſe of Wine to thoſe that deſire it; for I take it to be one of the beſt maxims in Phyſick, to ſatis<g ref="char:EOLhyphen"/>fy the Patient upon all occaſi<g ref="char:EOLhyphen"/>ons as far as you can.</p>
+            <p>'Tis according to this maxim, that if I find any at the firſt be<g ref="char:EOLhyphen"/>ginning of their Fever, unwil<g ref="char:EOLhyphen"/>ling to make uſe of the Bark, either in Clyſter, or by the Mouth,
+<pb n="14" facs="tcp:63212:14"/>I am not againſt it; ſo far from it, that I ſhould think 'em very much in the right, to endeavour firſt by a little Bleeding and Purging to recover their health; which oftentimes has ſucceſs. For that intent I'll give 'em this excellent Purgative. In half a pint of water boil one ounce of Tamarinds, two drachms of ſalt Polychreſte, one ounce of purified Caſſia, one ounce and an half of Manna, a little Cin<g ref="char:EOLhyphen"/>namon, and the White of an Egg beaten.</p>
+            <p>After you have boil'd it alto<g ref="char:EOLhyphen"/>gether ſeven or eight turns, ſqueeze into it a little juice of Citron, then let it cool, and ſtrain it through a cloath for uſe; three hours after you have taken it, drink a good diſh of broth.</p>
+            <pb n="15" facs="tcp:63212:14"/>
+            <p>Thoſe that have a mind to add, or diminiſh, or alter any thing in this Receipt, may do it if they pleaſe; and provided they obſerve the manner I have ſet before them, they'll never fail of a very agreeable Medi<g ref="char:EOLhyphen"/>cine.</p>
+            <p>If there be any likewiſe that have an inclination to vomiting, and there be a ſufficient indica<g ref="char:EOLhyphen"/>tion for a vomit, as is in all Fe<g ref="char:EOLhyphen"/>vers where there is a reaching, which by that means goes off, without any other remedy; yet I would willingly give 'em a preparation, which is the beſt and eaſieſt that can be taken for that purpoſe.</p>
+            <p>Take of purified Nitre and crude Antimony each one pound, beat 'em into a very fine Powder
+<pb n="16" facs="tcp:63212:15"/>and ſearce it; put a Crucible up<g ref="char:EOLhyphen"/>on freſh coals, and when 'tis red hot, throw in this powder by little ſpoonfuls, and let it make a detonation, leave it in fuſion for one half hour; after that let the fire go out, and the Crucible grow cold, then break it to take out the vitrified mat<g ref="char:EOLhyphen"/>ter, and reduce it again into a ſubtle powder; then add to it double its weight of Cremor Tartar alſo pulveriz'd, mix it all together and ſearce it; throw it in by little and little into a ſufficient quantity of boiling wa<g ref="char:EOLhyphen"/>ter, to make a diſſolution of the ſalt this powder contains; filtre the water through Cap-paper, after that evaporate it till no moiſture's left, and you'll have a ſalt, without diſpute, the beſt of all Emeticks.</p>
+            <pb n="17" facs="tcp:63212:15"/>
+            <p>The Doſe is from eight grains to twelve.</p>
+            <p>The manner of taking it is to warm a Glaſs of Wine, and pour a little out into a ſpoon where you have put the powder, and ſwallow it down; then put a little more warm Wine into the ſpoon, and drink down that, and leave none of the powder behind, then drink off the re<g ref="char:EOLhyphen"/>mains of the Glaſs.</p>
+            <p>The Patient will have an in<g ref="char:EOLhyphen"/>clination to vomit a quarter or half an hour after: Aſſoon as he has vomited once, let him drink a large glaſs of warm wa<g ref="char:EOLhyphen"/>ter, that it may operate the more eaſily, and repeat it three or four times during the opera<g ref="char:EOLhyphen"/>tion. Three hours after he has taken the powder you may give
+<pb n="18" facs="tcp:63212:16"/>him ſome broath, the remaining part of the day let him live tem<g ref="char:EOLhyphen"/>perately.</p>
+            <p>It is not the ſame thing with Cordials, as with Catharticks and Emeticks, for I not only approve of their uſe in Fevers, if the Patients deſire it before the Bark is given; but I ad<g ref="char:EOLhyphen"/>viſe in the time of taking their Clyſters, that they neglect not the uſe of 'em; not that they are abſolutely neceſſary for the cure, but becauſe they are of won<g ref="char:EOLhyphen"/>derful efficacy for ſtrengthning and keeping up a good heart, driving off its heavineſs, and pre<g ref="char:EOLhyphen"/>venting diſorders in the head.</p>
+            <p>For a Cordial I would have 'em take in intermitting Fevers, one ounce of Cinnamon water, two ounces of Borrage water,
+<pb n="19" facs="tcp:63212:16"/>as many of Wallnut water, the ſame quantity of Balm water, two drachms of the confection of Alchermes, one ounce and an half of Syrup of Lemons, or Pomegranate, mix 'em all toge<g ref="char:EOLhyphen"/>ther, and drop in ſome drops of Spirit of Sulphur, to give it an agreeable acidity.</p>
+            <p>It has an extraordinary plea<g ref="char:EOLhyphen"/>ſant taſte. Let 'em take one or two ſpoonfuls every hour.</p>
+            <p>Thoſe that have a vomiting or looſeneſs with an intermit<g ref="char:EOLhyphen"/>ting Fever, let 'em make uſe of this for their Cordial; take of Plantain and Knotgraſs water each four ounces, Diaphoretick Mineral, and Hartſhorn pre<g ref="char:EOLhyphen"/>par'd each two ſcruples, Con<g ref="char:EOLhyphen"/>fection of Hyacinth 2 drachms, Syrup of Diacodium, and Syrup
+<pb n="20" facs="tcp:63212:17"/>of Quinces each one ounce, mix 'em all together, and take of it every hour as before.</p>
+            <p>In Fevers continual and ma<g ref="char:EOLhyphen"/>lignant, I would accordingly adviſe a Cordial Julep to puri<g ref="char:EOLhyphen"/>fy the blood, and reſiſt the ma<g ref="char:EOLhyphen"/>lignity, by cauſing a gentle per<g ref="char:EOLhyphen"/>ſpiration; let it be this; take one ounce of Treacle water, two ounces of Scorzoneer water, <hi>Carduus Benedictus</hi> and Scabious water the ſame quantity each, twenty grains of powder of Vi<g ref="char:EOLhyphen"/>pers, two ſcruples of Bezoard Mineral, half a drachm of <hi>Ve<g ref="char:EOLhyphen"/>nice</hi> Treacle, one drachm of the Confection of Hyacinth, the ſame quantity of Alchermes, one ounce of the Syrup of Cloves; mix it all together as before.</p>
+            <pb n="21" facs="tcp:63212:17"/>
+            <p>Theſe ſorts of Cordial Juleps cannot fail of good ſucceſs; thoſe that inſtead of the powder of Vipers, had rather make uſe of its Volatile Salt, and Bezoar Stone, if they can get it, may put in ten or twelve grains of each, if the Fever be very ma<g ref="char:EOLhyphen"/>lignant.</p>
+            <p>'Tis thus providing againſt the troubleſome accidents that uſually attend the moſt dangerous and malignant Fe<g ref="char:EOLhyphen"/>vers, and the Bark taken in Clyſter, which has nothing more to do but to take off the ferment of the Fever, will do it ſo eaſi<g ref="char:EOLhyphen"/>ly, that it will be a pleaſant ſur<g ref="char:EOLhyphen"/>prize to the Patient, and will give ſatisfaction to the world of its uſefulneſs in Clyſters, which we here treat of.</p>
+            <pb n="22" facs="tcp:63212:18"/>
+            <p>I think by this manner of giv<g ref="char:EOLhyphen"/>ing the Bark, I have avoided all the inconveniencies which have hitherto accompanied it in the ordinary method of taking it.</p>
+            <p>It's plain, the Patients cannot complain of the bitter taſte, be<g ref="char:EOLhyphen"/>cauſe they do not take it by the mouth.</p>
+            <p>It's alſo evident, there will be no more a weight felt in the ſtomach, becauſe it is not re<g ref="char:EOLhyphen"/>ceived there.</p>
+            <p>As to the heat, it's certain the groſſer parts of the Bark, which are the ſole cauſe of it, ſtay in the body no longer than 'tis juſt requiſite for the natural heat to digeſt it, and extract the vo<g ref="char:EOLhyphen"/>lative and wholeſom parts, the remaining dregs being ſoon car<g ref="char:EOLhyphen"/>ried off, without taking ſo long
+<pb n="23" facs="tcp:63212:18"/>a courſe as it neceſſarily muſt, if taken by the mouth; it muſt of neceſſity have a very good effect upon the body, which o<g ref="char:EOLhyphen"/>therwiſe would be incommoded with that noxious and uneaſy weight which is the cauſe of thoſe heats ſo much complained of.</p>
+            <p>There are only thoſe Patients that are troubled with the Piles, that can ſuffer any pain in gi<g ref="char:EOLhyphen"/>ving back the Clyſter, the pow<g ref="char:EOLhyphen"/>der as it paſſes fretting the part; ſo I adviſe 'em to diminiſh the doſe, and put but half an ounce of the powder, or rather no powder at all, but take a ſtrong decoction of the Bark, which will cauſe no pain at all, and at the ſame time perform the cure as well; only with this difference,
+<pb n="24" facs="tcp:63212:19"/>that 'twill coſt the more, becauſe you muſt uſe a larger quantity of the Bark; which I remark here ſo much the more willing<g ref="char:EOLhyphen"/>ly, becauſe this advice may be ſerviceable to all ſorts of Peo<g ref="char:EOLhyphen"/>ple, that for what reaſon ſo ever, ſhall think fit rather to make uſe of a ſtrong decoction than of the Powder it ſelf: tho to ſpeak the truth, except for ſo important a reaſon as that of the Piles, I ſhould al<g ref="char:EOLhyphen"/>ways give the Bark in ſubſtance the preference; I can affirm that within theſe three years, ſince I firſt made the diſcovery of the manner of giving it, I have made uſe of it in the cure of above two thouſand Patients, of every Age and Sex, who never perceived any in<g ref="char:EOLhyphen"/>convenience,
+<pb n="25" facs="tcp:63212:19"/>notwithſtanding the great number of Clyſters they have taken: and ſome have taken a great many more than others, by reaſon of the relapſes they have had from the extraordinary malignity and ſtubbornneſs of their Fevers.</p>
+            <p>I don't queſtion but that this remedy will find ſo good a re<g ref="char:EOLhyphen"/>ception, that the more 'tis known to the Phyſicians the more 'twill be eſteem'd by 'em; and I dare ſay the Pati<g ref="char:EOLhyphen"/>ents will own themſelves obli<g ref="char:EOLhyphen"/>ged to me, for having firſt diſcovered the way to the moſt convenient, eaſie, and certain cure, that has been hitherto in practice: for who is not ſenſi<g ref="char:EOLhyphen"/>ble, that abundance of ſick have died becauſe they have
+<pb n="26" facs="tcp:63212:20"/>not been able to get down the Bark? And conſidering there are many that have an invinci<g ref="char:EOLhyphen"/>ble antipathy to the taking of other Drugs which would be for their health, this manner of giving by Clyſter, what they refuſe to take by Mouth, will be of more general uſe than it appear'd to be at firſt; and perhaps one day or other ſome will acknowledge that I have in ſome meaſure contributed to<g ref="char:EOLhyphen"/>wards the perfection of Phyſick. I have had the experience of it in my remedies againſt a dy<g ref="char:EOLhyphen"/>ſentery; having met with ma<g ref="char:EOLhyphen"/>ny Patients, whoſe tenderneſs of conſtitution has put me to a great deal of trouble, in giving my ſpecifick by Mouth, by rea<g ref="char:EOLhyphen"/>ſon of the vomiting it cauſes.
+<pb n="27" facs="tcp:63212:20"/>and I have happily ſucceeded by uſing it in Clyſter.</p>
+            <p>I have alſo communicated the manner of giving this to <hi>M.</hi> the firſt Phyſician, who did me the honour to approve of it, as well as that of the Bark, and every one knows of what an authority his approbation is.</p>
+            <p>As to what I ſaid, relating to the quickneſs of the cure, which is perfectly and much ſooner perform'd this way, than by taking the Bark by the Mouth; the reaſon of it is ve<g ref="char:EOLhyphen"/>ry plain.</p>
+            <p>Firſt they give it in a much larger quantity by Clyſter, than can be given by Mouth.</p>
+            <p>In the ſecond place, they give it always in ſubſtance, and con<g ref="char:EOLhyphen"/>ſequently it muſt have the bet<g ref="char:EOLhyphen"/>ter effect.</p>
+            <pb n="28" facs="tcp:63212:21"/>
+            <p>Thirdly, Its ſubtle parts which act only upon the ferment of the Fever, and make its ebul<g ref="char:EOLhyphen"/>lition to ceaſe, get very eaſi<g ref="char:EOLhyphen"/>ly into the maſs of Blood by the mouths of thoſe numerous veſſels wich center in the in<g ref="char:EOLhyphen"/>teſtin's: even ſo broths given in Clyſters paſs into the blood with the ſame eaſe, for the nouriſhment of the ſick; as alſo we ſee Tobacco Clyſters carry their volatile parts with a wonderful quickneſs, by means of the Circulation even to the Stomach, and ſo cauſe a vomiting.</p>
+            <p>In fine, experience gives a perfect confirmation of the ſpeedineſs and certainty of of this way of curing; for in all the Fevers, where-ever I
+<pb n="29" facs="tcp:63212:21"/>made uſe of this remedy, the moſt obſtinate could never hold out beyond two fits. And if it be neceſſary to produce inſtances of thoſe that are well known to the world, the ſick which were put under my care at <hi>Verſails,</hi> by the command of the King, are authentick and undeniable teſtimonies.</p>
+            <p>I preſent you with all their Names, Qualities, Diſtempers and their Symptoms.</p>
+            <p>The Lady Abbeſs of the Mo<g ref="char:EOLhyphen"/>naſtery of <hi>Charity,</hi> relapſed in<g ref="char:EOLhyphen"/>to a double tertian continual Fever, with a great pain in her head, as alſo delirious at the return of the fit.</p>
+            <p>Mr. <hi>Hurant,</hi> one of the Kings Guards, aged thirty years, ta<g ref="char:EOLhyphen"/>ken with a double tertian, ac<g ref="char:EOLhyphen"/>companied
+<pb n="30" facs="tcp:63212:22"/>with diſorders in the head, and intolerable pains in the back; it began with a cold fit, which laſted twelve hours at leaſt, and went off in a great ſweat, which weakened him extremely.</p>
+            <p>Mr. <hi>Gueri,</hi> another of the Kings Guards, forty eight years of age, that had been ſeiz'd fifteen days before, with a double tertian continual Fever, together with an extreme pain in his head, and very deli<g ref="char:EOLhyphen"/>rious.</p>
+            <p>Mr. <hi>Varenne,</hi> of the Kings Guards forty five years old, that lay ſick ten days of a dou<g ref="char:EOLhyphen"/>ble tertian; its mildeſt Symp<g ref="char:EOLhyphen"/>tomes were an oppreſſion of the lungs, reſtleſneſs and great pains of the head.</p>
+            <pb n="31" facs="tcp:63212:22"/>
+            <p>Mr <hi>Caſe,</hi> another of the Kings Guards, aged thirty five years, that had been ſick twelve days of a double tertian, and by a defluction upon the lungs in great danger of his life.</p>
+            <p>One <hi>Langlois,</hi> Groom of the great Stables, ſeven and twen<g ref="char:EOLhyphen"/>ty years of age, that had a continual Fever for ſeven days with a paroxyſm, nauſeouſneſs, vomiting and Phrenſie.</p>
+            <p>One <hi>Chiſtal,</hi> Poſtilion to Mr. the Abbot of <hi>la Roche,</hi> twen<g ref="char:EOLhyphen"/>ty years of age, ſeiz'd with a Tertian five days before; the fit laſted the ſpace of twelve hours, during which time he ſtrained very much to vomit, was all in a fire and very near being delirious.</p>
+            <pb n="32" facs="tcp:63212:23"/>
+            <p>One <hi>Jenot,</hi> Under-Gardener in the <hi>Trianon,</hi> aged twenty ſix years, ſick of a double Terti<g ref="char:EOLhyphen"/>an, continual Fever, without ſleep and delirious.</p>
+            <p>One <hi>Creſpin,</hi> an Under-Clerk in the Office at my Lord Duke of <hi>Burgundy</hi>'s, eighteen years of age, that had been for ſix days in a continual Fever, with periodick vomitings, pains at the heart, and fainting fits.</p>
+            <p>One <hi>Valere,</hi> a <hi>Switzer,</hi> be<g ref="char:EOLhyphen"/>longing to the Appartments, aged thirty four years, tor<g ref="char:EOLhyphen"/>mented twenty days with a Tertian; the fit laſted twenty four hours: and after that he was taken with exceſſive vo<g ref="char:EOLhyphen"/>mitings, and an intolerable pain of the head.</p>
+            <pb n="33" facs="tcp:63212:23"/>
+            <p>One <hi>Saint Germain,</hi> Groom of the great Stables, thirty years of age, that lay ſick for twen<g ref="char:EOLhyphen"/>ty ſix days of a continual Fe<g ref="char:EOLhyphen"/>ver, delirious, always toſſing and turning.</p>
+            <p>All theſe Patients; to whom I have given my remedy out of Charity, by Mr. <hi>Regnault</hi> Ma<g ref="char:EOLhyphen"/>ſter Apothecary at <hi>Paris,</hi> who for that intent was conſtantly with 'em during their ſickneſs, were cured without any relapſe, except two, whoſe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ever return<g ref="char:EOLhyphen"/>ed, whom I was forc'd to begin again withal.</p>
+            <p>Alſo the Son of Mr. <hi>Simon,</hi> the King's Coachman in the lit<g ref="char:EOLhyphen"/>tle Stables, ſixteen years of age, after he had had a double ter<g ref="char:EOLhyphen"/>tian twenty days.</p>
+            <pb n="34" facs="tcp:63212:24"/>
+            <p>A <hi>Valet de Chambre</hi> of Mr. <hi>Cantin,</hi> ſick of a Tertian.</p>
+            <p>Mr. <hi>Lapierre, Valet de Cham<g ref="char:EOLhyphen"/>bre</hi> to and Officer of the Kings Wardrobe, who had a double Tertian for fifteen days, and all with the ſame dangerous accidents, as the others we juſt now ſpoke of.</p>
+            <p>'Tis not worth while to pro<g ref="char:EOLhyphen"/>duce any more inſtances: I could eaſily write a volume of them, but there are ſo many already, that have cured them<g ref="char:EOLhyphen"/>ſelves by this method, ſince the King has made it publick, that they ſpeak ſufficiently for me, without any further enlarge<g ref="char:EOLhyphen"/>ment.</p>
+            <p>From what I have ſaid, it ought not to be concluded, that by the means of this diſ<g ref="char:EOLhyphen"/>covery,
+<pb n="35" facs="tcp:63212:24"/>I pretend to make a man immortal: but what is evi<g ref="char:EOLhyphen"/>dent from it is, that abun<g ref="char:EOLhyphen"/>dance of accidents may be pre<g ref="char:EOLhyphen"/>vented, which otherwiſe hap<g ref="char:EOLhyphen"/>pen in a tedious Fever, and we may eaſily ſee the error of bleeding, which not only pro<g ref="char:EOLhyphen"/>longs the diſtemper, but often<g ref="char:EOLhyphen"/>times is the cauſe of many a Patients Death. Not that I ob<g ref="char:EOLhyphen"/>ſtinately and without reaſon am againſt once or twice bleeding, or thrice upon occaſion, where we ſee a great plethory; nei<g ref="char:EOLhyphen"/>ther am I againſt bleeding in the foot, when we are afraid the Patient will be delirious. I have nothing to ſay againſt it, neither can I perceive, that it will hinder the effect of any other remedy, the Phyſicians
+<pb n="36" facs="tcp:63212:25"/>ſhall think ſufficiently indica<g ref="char:EOLhyphen"/>ted: but I cannot bear that ſo great a quantity of blood ſhould be taken away, which is only preſcribed by cuſtom, and by which a Patient is ex<g ref="char:EOLhyphen"/>hauſted, for a Fever, which may be cured in three of four days at moſt, without the loſs of one drop.</p>
+            <p>As to what remains, I could wiſh that the diſcovery of this manner of giving the Bark, was a kindly and generally received, as it would be of general advantage to the whole world, and I ſhould think my ſelf too well recompenced for the pains I have been at, for ſo long time before I could ar<g ref="char:EOLhyphen"/>rive to it, and for the continual labour and care I have ta<g ref="char:EOLhyphen"/>ken
+<pb n="37" facs="tcp:63212:25"/>for theſe three years to examine into it, to be thorough<g ref="char:EOLhyphen"/>ly convinc'd of thoſe advan<g ref="char:EOLhyphen"/>tages, which appear'd to me at firſt: If I could communicate the fruits of my labour, with<g ref="char:EOLhyphen"/>out raiſing the envy and ma<g ref="char:EOLhyphen"/>lice of a certain ſort of Men, that diſhonour the Profeſſion, and deſerve not the name of Phyſicians. But as a man ought not to be diſcouraged from do<g ref="char:EOLhyphen"/>ing good, by the jealouſi and mean ſpirit of thoſe that ap<g ref="char:EOLhyphen"/>prove of nothing, but what they do themſelves; ſo I ſhall al<g ref="char:EOLhyphen"/>ways chearfully employ my ſelf as long as I live, in the ſearch after ſomething that may be profitable to Mankind, either in preſerving their Health or curing their diſtempers. And
+<pb n="38" facs="tcp:63212:26"/>in the mean time, I can ſo far vouch for the infallibility of what I now preſent to the world, that I durſt ſay, you'll never fail curing any Fever, continual or intermitting, pro<g ref="char:EOLhyphen"/>vided you follow exactly my Method.</p>
+            <p>There is but one caſe where the Bark, given after this man<g ref="char:EOLhyphen"/>ner, fails of taking off the Fe<g ref="char:EOLhyphen"/>ver; and that is when there's an Impoſthume in the body. Therefore you ought to look upon it as a very ill ſign, if the Fever cannot be ſtopt. In any other caſe beſides this you may aſſure your ſelf of ſucceſs.</p>
+            <p>I thought to have finiſh'd my writing here, and to have ad<g ref="char:EOLhyphen"/>ded nothing more to it, but I perceiv'd this paſſion of envy,
+<pb n="39" facs="tcp:63212:26"/>which I have already mention'd; and which I imagin'd might have ended only in denying to theſe Clyſters, an approba<g ref="char:EOLhyphen"/>tion which they ſtood in no need of. This malice ran ſo high, that they ſcrupled not to raiſe lyes, to take away the re<g ref="char:EOLhyphen"/>putation of this remedy: Not contented to deprive me of the the advantage of diſcovering ſo good a thing, but alſo en<g ref="char:EOLhyphen"/>deavouring to rob the publick of what might be uſeful to it from my diſcovery; for they ſpread it abroad, wherever they could gain hearing, that Cly<g ref="char:EOLhyphen"/>ſters of the Bark were the cauſe of Ulcers in ſome; in others of Impoſthumes in the Inteſtines, in others Fiſtula's, Abortions to Women with Child, and a
+<pb n="40" facs="tcp:63212:27"/>thouſand the like Diſorders.</p>
+            <p>To confute ſo groſs a Ca<g ref="char:EOLhyphen"/>lumny, I could eaſily bring Ar<g ref="char:EOLhyphen"/>guments which cannot be an<g ref="char:EOLhyphen"/>ſwered. As for example, if it be true that the Bark ſwallow<g ref="char:EOLhyphen"/>ed down in ſubſtance, pro<g ref="char:EOLhyphen"/>duces no other ill effects than thoſe I have already re<g ref="char:EOLhyphen"/>markt, how comes it to paſs, that when 'tis taken in Clyſter there ſhould happen ſuch terri<g ref="char:EOLhyphen"/>ble accidents, when at the ſame time it does not ſtay in any of the delicate parts of the Body, as it does when 'tis taken by the mouth.</p>
+            <p>There's no Phyſician but what knows, that an Emetick taken by the mouth is a very powerful remedy, and yet at the ſame time, when treble the
+<pb n="41" facs="tcp:63212:27"/>doſe of the ſame Remedy is gi<g ref="char:EOLhyphen"/>ven in Clyſter, it has but a mo<g ref="char:EOLhyphen"/>derate operation; which plain<g ref="char:EOLhyphen"/>ly proves, that the violence of the remedy is beyond all com<g ref="char:EOLhyphen"/>pariſon much leſs when 'tis given in a Clyſter, than when 'tis taken by the Mouth.</p>
+            <p>Beſides, make an Analyſis of all the parts of the Bark, you'll find none of it cauſe the leaſt pain or diſturbance in the Inteſtines.</p>
+            <p>But I am willing to ſhew theſe ignorant Detractors, that I can produce ſomething more convincing and ſtronger than ar<g ref="char:EOLhyphen"/>gument; I mean matter of fact, examples, experiences both of young Children, and Women with Child; for if it was true, that theſe troubleſom accidents did ariſe from the
+<pb n="42" facs="tcp:63212:28"/>uſe of theſe Clyſters, without doubt it would be moſt ſevere with little Infants, that are ſo tender and weak; and if they cauſe Abortion, the Wo<g ref="char:EOLhyphen"/>men big with Child that have taken 'em, have reaſon to know ſomething of it; and all theſe perſons that I am going to in<g ref="char:EOLhyphen"/>ſtance, had not recovered their perfect health, as they did, by the uſe of 'em.</p>
+            <p>Madamoiſelle <hi>duChatel,</hi> Grand<g ref="char:EOLhyphen"/>daughter of Monſieur Mareſchal <hi>de Bellefond,</hi> 18 months old, had a Fever, and was perfectly reco<g ref="char:EOLhyphen"/>vered by twelve Clyſters.</p>
+            <p>The Sons of the Marquis of <hi>St. Germain Beaupre,</hi> one eight years of age, ſeiz'd with a double Tertian and Ma<g ref="char:EOLhyphen"/>lignant Fever with Convulſi<g ref="char:EOLhyphen"/>ons;
+<pb n="43" facs="tcp:63212:28"/>the other twelve years old, that had a double Tertain, whoſe fit laſted for eighteen hours; each of 'em took twen<g ref="char:EOLhyphen"/>ty five, or thirty Clyſters, and both were perfectly cured.</p>
+            <p>The Son of the Marquis <hi>de Novion,</hi> three years of age, that had fits of a double Tertian, that held him for fif<g ref="char:EOLhyphen"/>teen hours, was cured by theſe Clyſters in a very few days.</p>
+            <p>The Son of Monſieur <hi>Nicolai,</hi> the firſt Preſident, 20 months old, taken with a continual Fever, accompanied with a vio<g ref="char:EOLhyphen"/>lent Colick, that made him cry out day and night; was alſo cured in a very little time.</p>
+            <p>The Son of the Marquis <hi>de Lavergne,</hi> twelve months old, ſeiz'd with a very
+<pb n="44" facs="tcp:63212:29"/>ſtrong double Tertian, toge<g ref="char:EOLhyphen"/>ther with a continual pain in his belly, and frequent deje<g ref="char:EOLhyphen"/>ctions, was cured by twelve Clyſters.</p>
+            <p>The Daughter of Monſieur <hi>de Beloy,</hi> Farmer general, eigh<g ref="char:EOLhyphen"/>teen months old, reduced to the laſt extremity by a vaſt number of fits of a double Ter<g ref="char:EOLhyphen"/>tian, took about twenty Cly<g ref="char:EOLhyphen"/>ſters, and was perfectly well.</p>
+            <p>The Son of Mr. <hi>Coipel,</hi> Pain<g ref="char:EOLhyphen"/>ter in ordinary to Monſieur, ſix months old, taken with a Tertian, together with a de<g ref="char:EOLhyphen"/>fluxion upon the lungs, was per<g ref="char:EOLhyphen"/>fectly recovered by twenty Clyſters.</p>
+            <p>The Daughter of Monſieur <hi>Beinval,</hi> Maſter of the Horſe to Monſieur the Count <hi>d' Auvergne,</hi>
+               <pb n="45" facs="tcp:63212:29"/>three years of age, that had been ſeiz'd with a double Ter<g ref="char:EOLhyphen"/>tian a month before, whoſe fits were very tedious, took ten or twelve Clyſters, and was perfectly cured.</p>
+            <p>The Daughter of Madam <hi>de Gaſſien,</hi> the Widow of Mon<g ref="char:EOLhyphen"/>ſieur <hi>de Gaſſien,</hi> Councellor in the Parliament, eight years of age, taken with a continual Fe<g ref="char:EOLhyphen"/>ver, with a Paroxyſm accom<g ref="char:EOLhyphen"/>panied with Colick pains and a looſneſs; took eighteen Cly<g ref="char:EOLhyphen"/>ſters and was well.</p>
+            <p>The Daughter of Monſieur <hi>de Logni</hi> in <hi>Platriere-ſtreet,</hi> ſe<g ref="char:EOLhyphen"/>ven years of age, ſeiz'd with a malignant Fever, with violent Paroxyſms every ſix hours, by the means of fifty Clyſters was perfectly cured.</p>
+            <pb n="46" facs="tcp:63212:30"/>
+            <p>The Daughter of Monſieur <hi>de Lamet,</hi> Secretary to the King, five years of age, taken with a double Tertian, whoſe fit laſt<g ref="char:EOLhyphen"/>ed eighteen hours, was cured with two and twenty Clyſters.</p>
+            <p>The Son of Monſieur <hi>Colat,</hi> Secretary to the King, three years of age, taken with a con<g ref="char:EOLhyphen"/>tinual Fever, was recovered by eight Clyſters,</p>
+            <p>The Son of Monſieur <hi>Ber<g ref="char:EOLhyphen"/>trand,</hi> Secretary to the King, two years and an half old, ta<g ref="char:EOLhyphen"/>ken with a Dyſentery and con<g ref="char:EOLhyphen"/>tinual Fever, was cured imme<g ref="char:EOLhyphen"/>diately of the Dyſentery by my Specifick, and afterwards took ſixteen Clyſters which took off the Fever. On which 'tis remarkable, that if there were any ill conſequence from
+<pb n="47" facs="tcp:63212:30"/>theſe Clyſters, without doubt it would be ſeen in this caſe; for there is no perſon but what muſt know, that after a Dyſente<g ref="char:EOLhyphen"/>ry the inteſtines are very weak and feeble, and eaſily ſubject to any ill impreſſion; I mean in old and ſtrong bodies, and much more in young tender In<g ref="char:EOLhyphen"/>fants.</p>
+            <p>The Son of Monſieur <hi>Audiger,</hi> Auditor of the Accounts, a Re<g ref="char:EOLhyphen"/>lation of Mr. <hi>Hermand,</hi> Phyſi<g ref="char:EOLhyphen"/>cian, three years of age redu<g ref="char:EOLhyphen"/>ced to the laſt extremity, was ſet upon his Legs again by theſe Clyſters, contrary to the advice, and notwithſtanding the oppoſition of his Kinſman.</p>
+            <p>The Daughter of Monſieur <hi>Huglas,</hi> in <hi>Bourdonnois-ſtreet,</hi> aged ſeven years, who had
+<pb n="48" facs="tcp:63212:31"/>been very much afflicted, and near death for many days, with a continual Fever and Defluxion upon the Lungs; was cured by this method alone. She took about thirty Clyſters.</p>
+            <p>The Son of Mr. <hi>Michalet,</hi> Bookſeller, eight years of age, that had been ſick of a double Tertian ſix weeks, whoſe fit was very violent and tedious, took eighteen Clyſters and was perfectly cured.</p>
+            <p>The Son of Mr. <hi>Malet,</hi> Mer<g ref="char:EOLhyphen"/>cer, in <hi>Montmartre-ſtreet,</hi> four years old, that had been ma<g ref="char:EOLhyphen"/>ny days afflicted with a conti<g ref="char:EOLhyphen"/>nual Fever near death, was cu<g ref="char:EOLhyphen"/>red by ſixteen Clyſters.</p>
+            <p>The Daughter of one <hi>Priou,</hi> Coachman to the lately deceas'd Monſieur <hi>Voiſin,</hi> Counſellor of
+<pb n="49" facs="tcp:63212:31"/>State, five years of age, ſeiz'd with a malignant Fever, deli<g ref="char:EOLhyphen"/>rious, and having at the ſame time a defluxion upon the Lungs, given over, and upon the point of death, when I was ſent for, took forty Cly<g ref="char:EOLhyphen"/>ſters, and was perfectly cured.</p>
+            <p>As to Women with Child, Madam the Counteſs of <hi>Flaman<g ref="char:EOLhyphen"/>ville,</hi> ſeven months gone, was ſeiz'd with a double Tertian continual Fever; who after ſhe had taken the Bark all manner of ways by the Mouth, and the Fever ſtill grew worſe, and the Patient deſpaired of any relief; at laſt by my or<g ref="char:EOLhyphen"/>der took it in Clyſter; which gave her life again, and by that means ſhe went her time out, and was ſafely brought to Bed.</p>
+            <pb n="50" facs="tcp:63212:32"/>
+            <p>It is about two Months ſince, Monſieur <hi>des Forges</hi> the famous Man-Midwife, ſent for me to conſult about Madam <hi>de Belle<g ref="char:EOLhyphen"/>cour,</hi> Wife of Monſieur <hi>de Belle<g ref="char:EOLhyphen"/>cour,</hi> Pay-maſter of the Rents, a Lady of a very nice conſtitu<g ref="char:EOLhyphen"/>tion; ſhe had been ſick for ſix weeks of a Tertian Ague and then a doulbe Tertian; ſhe had taken the Bark a great while by the Mouth, which had brought it to ſome inter<g ref="char:EOLhyphen"/>miſſion, but not perfectly cured it. I ſatisfied Monſieur <hi>des For<g ref="char:EOLhyphen"/>ges</hi> of the eaſineſs and excel<g ref="char:EOLhyphen"/>lency of the Bark by Clyſter, he agreed to make uſe of it, and the Lady was perfectly cured by its means.</p>
+            <p>I have given you Inſtances over and above, for the ſatis<g ref="char:EOLhyphen"/>faction
+<pb n="51" facs="tcp:63212:32"/>of thoſe whoſe intereſt it is, to inform themſelves of the manner of giving the Bark in Clyſter: ſhould I endeavour to relate the like Cures I have perform'd I ſhould never come to an end without abuſing the patience of the Read<g ref="char:EOLhyphen"/>er. I have only related this ſmall number, becauſe I thought my ſelf obliged to give this proof to the Publick, ſince they endeavour to deceive the World, by their notorious Lies and ſcandalous Diſcourſes, un<g ref="char:EOLhyphen"/>worthy of Men of honour.</p>
+            <p>All thoſe I have juſt now mentioned, are perſons very well known to the World: any one may be eaſily ſatisfied from them, and all muſt acknow<g ref="char:EOLhyphen"/>ledge the worth and innocence
+<pb n="52" facs="tcp:63212:33"/>of a Remedy, which is of ſuch uſe, that thoſe that detract from it, may be aſhamed of their injuſtice, in ſtifling a Truch ſo beneficial to the health of Mankind.</p>
+            <p>Yet if there are Phyſicians ſtill of that malicious temper, I can vouch that there are alſo a great many at <hi>Paris,</hi> that have done me juſtice, and the honour to approve of theſe Clyſters, by preſcribing them to their Patients, and have ac<g ref="char:EOLhyphen"/>cordingly found ſucceſs.</p>
+            <p>If any one has endeavour'd to make uſe of theſe Clyſters, and they have not anſwered expectation, it is without doubt either becauſe they did not underſtand thoroughly my way of giving them, or elſe becauſe
+<pb n="53" facs="tcp:63212:33"/>they have not obſerved it. But I boldly defie any Man whatever, Phyſician or not, to bring any one that I have ma<g ref="char:EOLhyphen"/>naged after this way of pra<g ref="char:EOLhyphen"/>ctice within theſe three years, that have had a Fiſtula, or any ſuch like diſaſter, which can be imputed to this Remedy. It is an eaſie matter to ſpeak againſt a thing, and ſuppoſe it to be falſe, but this is not ſuffici<g ref="char:EOLhyphen"/>ent to gain belief, they ought to prove what they ſay.</p>
+            <p>All the world knows that I have preſcribed theſe Clyſters, to a great many Patients in the utmoſt extremity. A great ma<g ref="char:EOLhyphen"/>ny have recovered, and ſome have died, not from any ill ef<g ref="char:EOLhyphen"/>fect of the remedy, but becauſe we muſt all dye, and when it
+<pb n="54" facs="tcp:63212:34"/>Pleaſes God to take us out of this world, all our endeavours are but vain.</p>
+            <p>I have already ſaid, that I do not pretend to make a man im<g ref="char:EOLhyphen"/>mortal by this method, neither do I oblige any man to it; I only publiſh it to diſcharge my duty, who ever pleaſes may make uſe of it. If the Cures it perform'd were not ſo ſpee<g ref="char:EOLhyphen"/>dy, and there were a greater formality than the thing re<g ref="char:EOLhyphen"/>quires in the management of it, it would not be of ſo little repute.</p>
+            <p>However, if there be any, out of a ſtrong antipathy to the Bark, abſolutely refuſe to take it either in Clyſter or by the Mouth, if they'll do me the honour to come to me for re<g ref="char:EOLhyphen"/>lief,
+<pb n="55" facs="tcp:63212:34"/>I'll give 'em remedies which ſhall be as innocent and effectual as the other.</p>
+            <p>The poor of all ſorts ſhall be kindly received whenever they come, throughout the whole year, <hi>viz.</hi> in the Sum<g ref="char:EOLhyphen"/>mer time, from half an hour after five to half an hour af<g ref="char:EOLhyphen"/>ter ſix; in the Winter from ſeven a Clock in the morning to eight: I ſhall take a great deal of care to hear and examine 'em, and will give 'em reme<g ref="char:EOLhyphen"/>dies <hi>gratis,</hi> not only for Fevers and the Dyſentery, but for all other Diſtempers, excepting none; which I thought my ſelf obliged to give notice of, that the fooliſh modeſty of ſome may be no hinderance to the cure of the Diſtemper they are aſhamed to own.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:63212:35"/>
+            <pb n="57" facs="tcp:63212:35"/>
+            <head>THE PRIVILEGE OF THE KING.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="royal_license">
+                        <opener>
+                           <signed>
+                              <hi>LOuis,</hi> by the Grace of God, King of <hi>France</hi> and <hi>Navarre,</hi>
+                           </signed>
+                           <salute>to our Beloved and Faithful Counſellors, Gentlemen of our Courts of Parliament, Maſter of the
+<pb n="58" facs="tcp:63212:36"/>Ordinary Requeſts of our Court, Provoſts, Bailiffs, Seneſchals, their Civil Lieu<g ref="char:EOLhyphen"/>tenants, and all other our Officers to whom it ſhall be<g ref="char:EOLhyphen"/>long greeting.</salute>
+                        </opener>
+                        <p>Our well be<g ref="char:EOLhyphen"/>loved <hi>Adrien Helvetius</hi> Do<g ref="char:EOLhyphen"/>ctor of Phyſick, has humbly ſhewn to us, that-having diſcovered the manner of cu<g ref="char:EOLhyphen"/>ring Fevers without taking any thing by the mouth, he might preſent it to us, and receive Orders from us to make it public, and accord<g ref="char:EOLhyphen"/>ingly might have it printed, under the Title of <hi>A Me<g ref="char:EOLhyphen"/>thod
+<pb n="59" facs="tcp:63212:36"/>of curing all ſorts of Fevers without taking any thing by the Mouth.</hi> Which he being not in a ca<g ref="char:EOLhyphen"/>pacity to do without our Letters of Permiſſion and Privilege requiſite for it, he has humbly petitioned us, that we would grant him them. For theſe Reaſons, being willing to treat the ſaid Mr. <hi>Helvetius</hi> kindly, conſidering the Services he does every day to the Public, and the Cures he has per<g ref="char:EOLhyphen"/>form'd of moſt ſorts of Fe<g ref="char:EOLhyphen"/>vers by his New Method, as
+<pb n="60" facs="tcp:63212:37"/>well in the Hoſpital of <hi>Ver<g ref="char:EOLhyphen"/>ſailles,</hi> as elſewhere.</p>
+                        <p>We have given him Li<g ref="char:EOLhyphen"/>cence, and by theſe Preſents do give him Licence to print the ſaid Method by ſuch Bookſeller or Printer, in ſuch a Volume, Margent, Cha<g ref="char:EOLhyphen"/>racter, and as often as he ſhall think fit, during the ſpace of Ten Years next en<g ref="char:EOLhyphen"/>ſuing, to begin from the day the ſaid Method ſhall be fi<g ref="char:EOLhyphen"/>niſhed at the Preſs; to ſell and diſtribute it throughout our Kingdom, by ſuch Per<g ref="char:EOLhyphen"/>ſons as he ſhall adviſe with.
+<pb n="61" facs="tcp:63212:37"/>We prohibit all Bookſellers, and others, to print or cauſe to be printed, ſell or diſtribute the ſaid Book un<g ref="char:EOLhyphen"/>der any pretence whatſoever, either of a Foreign Impreſ<g ref="char:EOLhyphen"/>ſion or otherwiſe, without the conſent of the ſaid <hi>Hel<g ref="char:EOLhyphen"/>vetius,</hi> or thoſe that are in Commiſſion under him, upon pain of Confiſcation of the counterfeit Copies, two thou<g ref="char:EOLhyphen"/>ſand Livers mulct, and all coſts, damages and intereſts; upon condition that he ſhall put two Copies of it in our publick Library, one in our
+<pb n="62" facs="tcp:63212:38"/>Cabinet of Books, at our Caſtle of <hi>Louvre,</hi> and the other in that of our dearly beloved and faithful Cheva<g ref="char:EOLhyphen"/>lier, Commander of our or<g ref="char:EOLhyphen"/>ders, Mr. <hi>Boucherat</hi> Chan<g ref="char:EOLhyphen"/>cellour of <hi>France;</hi> as alſo that he takes care to print the ſaid Book upon good Pa<g ref="char:EOLhyphen"/>per, and in a fair Charact<g ref="char:EOLhyphen"/>er, according to the orders of the Library and Printing; that the Impreſſion of it be in our Kingdom and not elſe<g ref="char:EOLhyphen"/>where, and that he cauſes theſe Preſents to be regiſtred in the Regiſtry, of the Com<g ref="char:EOLhyphen"/>pany
+<pb n="63" facs="tcp:63212:38"/>of the Merchant Book<g ref="char:EOLhyphen"/>ſellers and Printers at <hi>Paris,</hi> upon pain of theſe Preſents be<g ref="char:EOLhyphen"/>ing void &amp; of none effect; the contents of which we command and enjoyn you, that the ſaid <hi>Helvetius</hi> enjoy with all its rights fully and peaceably, ceaſing and cau<g ref="char:EOLhyphen"/>ſing to ceaſe all troubles and hinderances to the con<g ref="char:EOLhyphen"/>trary. Our Will is that in putting at the beginning or end of the ſaid Book the abſtract of theſe Preſents, they may be held authentick &amp; duly ſignified, and that to
+<pb n="64" facs="tcp:63212:39"/>the Copies, compared by one of our beloved and faithful Coun<g ref="char:EOLhyphen"/>ſellors and Secretaries, credit may be given as to the Original. We command our firſt Appari<g ref="char:EOLhyphen"/>tor or Sergeant upon this Sum<g ref="char:EOLhyphen"/>mons to make for the executi<g ref="char:EOLhyphen"/>on of theſe Preſents all ſignifi<g ref="char:EOLhyphen"/>cations, &amp; other acts of juſtice neceſſary, without demand<g ref="char:EOLhyphen"/>ing any other permiſſion: For ſo is our Will and Pleaſure.</p>
+                        <closer>
+                           <dateline>Given at <hi>Paris</hi> 
+                              <date>the eighth day of <hi>November,</hi> in the Year of our Lord One Thou<g ref="char:EOLhyphen"/>ſand Six Hundred Ninety Three, and in the Fifty
+<pb n="65" facs="tcp:63212:39"/>Firſt Year of our Reign.</date>
+                           </dateline> Sign'd by the King in Coun<g ref="char:EOLhyphen"/>cil.
+<signed>Boucher.</signed>
+                        </closer>
+                        <postscript>
+                           <p>Regiſtred in the Book of the Company of Bookſellers and Printers of <hi>Paris,</hi> the 18th of <hi>November 1693. Sign'd by</hi> Aubouyn <hi>Recorder.</hi>
+                           </p>
+                        </postscript>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>The firſt Impreſſion fi<g ref="char:EOLhyphen"/>niſhed the 2d of <hi>Janu<g ref="char:EOLhyphen"/>ary.</hi> 1694.</p>
+            <pb n="66" facs="tcp:63212:40"/>
+            <p>
+               <hi>This Impreſſion was juſt finiſh'd, when Monſieur</hi> d' Rouviere, <hi>very well known by his perſonal merit, as well as by his compoſition of Treacle, the fineſt now made; tranſmitted a Letter to me, which was writ to him by the learned Monſieur</hi> Fo<g ref="char:EOLhyphen"/>vet; <hi>which my Friends thought convenient I ſhould give an abſtract of here, that may be ſervice<g ref="char:EOLhyphen"/>able to the publick, as a teſtimony; which is ſo much the more conſider<g ref="char:EOLhyphen"/>able,
+<pb n="67" facs="tcp:63212:40"/>becauſe it came from a good hand, and was not ſought after. The ab<g ref="char:EOLhyphen"/>ſtract runs thus word for word.</hi>
+            </p>
+         </div>
+         <div type="letter">
+            <pb n="68" facs="tcp:63212:41"/>
+            <head>The Abſtract of a Let<g ref="char:EOLhyphen"/>ter from Monſieur <hi>Fovet,</hi> Phyſician to the King, Intendant of the Waters of <hi>Vi<g ref="char:EOLhyphen"/>chi;</hi> to Mr. <hi>Rouviere</hi> the King's Apothe<g ref="char:EOLhyphen"/>cary.</head>
+            <opener>
+               <dateline>Vichi <date>the 30th of <hi>Novem.</hi> 1693.</date>
+               </dateline>
+            </opener>
+            <p>—If you ſee Monſieur <hi>Helvetius</hi> tell him, that I give him thanks, for his in<g ref="char:EOLhyphen"/>vention of the way of curing
+<pb n="70" facs="tcp:63212:41"/>Fevers by giving the Bark in Clyſter; for it never fails me, and before the Fever re<g ref="char:EOLhyphen"/>turns again I repeat it, or at leaſt cauſe it to be re<g ref="char:EOLhyphen"/>peated, with very great ſuc<g ref="char:EOLhyphen"/>ceſs. Poſterity will be ve<g ref="char:EOLhyphen"/>ry much obliged to him. The laſt cure I perform'd was upon a woman, ſeventy two years of age, who had a double Quartan with an unquenchable thirſt without ſleep; ſhe nauſeated every thing, and was exceſſive weak; all this ſucceeded a continual Fever ſhe had for 6
+<pb n="69" facs="tcp:63212:42"/>weeks; in a word, all the Family, with the Patient her ſelf, lookt upon this cure as un enchantment. If he pub<g ref="char:EOLhyphen"/>liſhes any writing concern<g ref="char:EOLhyphen"/>ing it, whatever it coſts, pray, Sir, let me have it.</p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:63212:42"/>
+            <head>BOOKS ſold by <hi>J. Knapton,</hi> at the <hi>Crown</hi> in St. <hi>Pauls</hi> Church-yard, <hi>1694.</hi>
+            </head>
+            <list>
+               <item>THE Memoirs of Monſieur <hi>Pon<g ref="char:EOLhyphen"/>tis,</hi> who ſerved in the <hi>French</hi> Armies 56 Years, under <hi>Hen.</hi> IV. <hi>Lewis</hi> XIII, and <hi>Lewis</hi> XIV. Kings of <hi>France.</hi> Containing many re<g ref="char:EOLhyphen"/>markable Paſſages relating to the Court, the War, and the Govern<g ref="char:EOLhyphen"/>ment of thoſe Princes, tranſlated at the deſire of the late Duke of <hi>Or<g ref="char:EOLhyphen"/>mond,</hi> by <hi>Charles Cotton,</hi> Eſq; and de<g ref="char:EOLhyphen"/>dicated to his Grace, the preſent Duke.</item>
+               <item>Sir <hi>W. Temples</hi> Memoirs of what paſt in Chriſtendom from the War in 1672. to the Peace concluded 1679. 2d edit.</item>
+               <item>Proceſſus integri in morbis fere omni<g ref="char:EOLhyphen"/>bus curandis a D. Tho. Sydenham con<g ref="char:EOLhyphen"/>ſcripti, 12s.</item>
+               <item>
+                  <hi>Scriveners</hi> directions to a holy Life, <hi>Oct.</hi>
+               </item>
+               <item>Dr. <hi>Barrow</hi> of Contentment, <hi>Oct.</hi>
+               </item>
+            </list>
+         </div>
+      </back>
+   </text>
+</TEI>
